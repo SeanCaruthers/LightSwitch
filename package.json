@@ -1,0 +1,17 @@
+{
+    "name": "LightSwitch",
+    "version": "0.0.0",
+    "description": "A 3CNF Game",
+    "main": "app.js",
+    "scripts": {
+        "find": "ps ax | grep node"
+    },
+    "author": "Sean Caruthers",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.17.1",
+        "express-handlebars": "^4.0.4",
+        "handlebars": "^4.7.6",
+        "nodemon": "^2.0.4"
+    }
+}
